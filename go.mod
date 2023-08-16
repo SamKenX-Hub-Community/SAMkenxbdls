@@ -1,6 +1,4 @@
-
 module github.com/BDLS-bft/bdls
-
 
 go 1.17
 
@@ -12,7 +10,8 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/stretchr/testify v1.7.0
 	github.com/urfave/cli/v2 v2.3.0
-	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e
+	github.com/yonggewang/bdls v1.3.9
+	golang.org/x/sys v0.1.0
 )
 
 require (
