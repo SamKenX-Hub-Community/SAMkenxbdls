@@ -1,6 +1,4 @@
-
 module github.com/BDLS-bft/bdls
-
 
 go 1.17
 
@@ -12,6 +10,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/stretchr/testify v1.7.0
 	github.com/urfave/cli/v2 v2.3.0
+	github.com/yonggewang/bdls v1.3.9
 	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e
 )
 
@@ -21,5 +20,5 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/russross/blackfriday/v2 v2.0.1 // indirect
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c // indirect
+	gopkg.in/yaml.v3 v3.0.0 // indirect
 )
